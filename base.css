@@ -1,0 +1,13 @@
+/* Table Page Style Sheet*/
+.heading-style{padding: 10px; color: #ffffff; width: 95%; margin-bottom: 0px; margin-left: 100px}
+.paragraph-style{padding: 10px; width: 94.5%; margin-top: 0px; margin-left: 100px; font-family: fantasy;}
+/* This is division page style sheet*/
+.float-container {
+
+}
+
+.float-child {
+    width: 45%;
+    float: left;
+    margin: 5px;
+}
